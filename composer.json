@@ -17,12 +17,12 @@
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": "~2",
-        "desarrolla2/rss-client": "~2"
+        "newwaveweb/rss-client": "~2"
     },
     "autoload": {
         "psr-0": {
-            "NewWaveWeb\\Bundle\\RSSClientBundle": ""
+            "Desarrolla2\\Bundle\\RSSClientBundle": ""
         }
     },
-    "target-dir": "NewWaveWeb/Bundle/RSSClientBundle"
+    "target-dir": "Desarrolla2/Bundle/RSSClientBundle"
 }
