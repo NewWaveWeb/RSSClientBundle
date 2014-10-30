@@ -1,5 +1,5 @@
 {
-    "name": "desarrolla2/rss-client-bundle",
+    "name": "newwaveweb/rss-client-bundle",
     "type": "symfony-bundle",
     "description": "This Bundle provides a way to get rss feeds friendly.",
     "keywords": ["rss", "client"],
@@ -12,7 +12,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/desarrolla2/RSSClientBundle/issues"
+        "issues": "https://github.com/newwaveweb/RSSClientBundle/issues"
     },
     "require": {
         "php": ">=5.3.2",
@@ -21,8 +21,8 @@
     },
     "autoload": {
         "psr-0": {
-            "Desarrolla2\\Bundle\\RSSClientBundle": ""
+            "NewWaveWeb\\Bundle\\RSSClientBundle": ""
         }
     },
-    "target-dir": "Desarrolla2/Bundle/RSSClientBundle"
+    "target-dir": "NewWaveWeb/Bundle/RSSClientBundle"
 }
