@@ -24,5 +24,11 @@
             "Desarrolla2\\Bundle\\RSSClientBundle": ""
         }
     },
-    "target-dir": "Desarrolla2/Bundle/RSSClientBundle"
+    "target-dir": "Desarrolla2/Bundle/RSSClientBundle",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:NewWaveWeb/RSSClient.git"
+        }
+    ]
 }
